@@ -7,8 +7,8 @@
   - Physics
   - Ui design and much more....
 - 📫 For any information or collaborations, You may contact me through 
-  - My email Id - tatva.agarwal.2006@gmail.com
-  - My Instagram page - https://instagram.com/codertatva
+  - My email Id - winterdew.studio@gmail.com
+  - My Instagram page - https://instagram.com/winterdew__
 - I hope you find my projects useful or inspiring.
 # Thank you :)
 
