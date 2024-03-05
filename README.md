@@ -8,7 +8,7 @@
   - Ui design and much more....
 - 📫 For any information or collaborations, You may contact me through 
   - My email Id - winterdew.studio@gmail.com
-  - My Instagram page - [Instagram]("https://instagram.com/winterdew__")
+  - My website- winterdew.github.io
 - I hope you find my projects useful or inspiring.
 # Thank you :)
 
